@@ -1,9 +1,9 @@
-package homework_1;
+package homework.one;
 
 /**
  * 2. Пиграться с char. Объявить переменную, прибавить к ней int значение (допустим 1 10 22) и отнять, объяснить как это рабоатет, т.е. какой результат получаем и почему.
  */
-public class Punkt_2 {
+public class PunktTwo {
 
     public static void main(String[] args) {
         char testLetter = 'a';

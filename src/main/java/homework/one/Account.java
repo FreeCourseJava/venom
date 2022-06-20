@@ -1,4 +1,4 @@
-package homework_1;
+package homework.one;
 
 public class Account {
     public final long accountNumber;
